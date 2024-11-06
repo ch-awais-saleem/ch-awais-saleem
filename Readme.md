@@ -1,6 +1,5 @@
 ## Hey 👋, This is Awais 
 
-
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:awaissaleem35@gmail.com)
 [![ikechimbeyi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chawaissaleem)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ch-awais-saleem)
