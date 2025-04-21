@@ -14,7 +14,7 @@ Currently, I am working with customer data to find ways of attracting more follo
 Areas of Expertise:  
 Database Administration: SQL Server, PostgreSQL, MySQL, Database Replication, High Availability & Disaster Recovery
 Data Engineering: ETL Pipelines, Data Warehousing, Kafka, CDC, Data Migrations, and Integrations
-Cloud Platforms: AWS, Azure
+Cloud Platforms: AWS, Azure, GCP
 Programming: SQL, Python, Bash
 Tools & Technologies: Apache Kafka, Hadoop, Spark, Docker, Kubernetes, Git, Jenkins, DBT
 I’m always looking to collaborate on projects that push the boundaries of data architecture and performance.
