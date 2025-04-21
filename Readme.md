@@ -11,7 +11,7 @@ I’m a Data Engineer\Data Consultant  with extensive experience in designing, i
 
 Currently, I am working with customer data to find ways of attracting more followers and increasing business metrics. My previous experience in SMM and years of collaborating with clients have helped me develop my communication, analytical, time¬ management, and problem-solving skills. In year, I enrolled in the Data Analyst program. The curriculum covered Python (Pandas, NumPy, Beautiful Soup), data visualization (Matplotlib, Plotly, Tableau), machine learning (scikit-learn, NLTK, TensorFlow), SQL, and more. It also involved numerous practical projects.
 
-Areas of Expertise: 
+Areas of Expertise:  
 Database Administration: SQL Server, PostgreSQL, MySQL, Database Replication, High Availability & Disaster Recovery
 Data Engineering: ETL Pipelines, Data Warehousing, Kafka, CDC, Data Migrations, and Integrations
 Cloud Platforms: AWS, Azure
