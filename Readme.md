@@ -45,8 +45,9 @@ Some facts about me:
 
 ## Certifications
 
-[![Certified AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/your-badge-link) 
+[![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/f2156571-0570-42da-aa36-d9672b8cc974) 
 
+[![Certified AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/348f5bc1-232d-4c08-85a7-67edfcf31643) 
 
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=flat-square)](https://github.com/sponsors/ch-awais-saleem) 
