@@ -21,19 +21,9 @@ I’m always looking to collaborate on projects that push the boundaries of data
 
 Some facts about me:
 
-- 📸 I enjoy participating in professional events, especially those organized in Data Science community. 
-- 🗽 At the moment, I am training for the beingf a Data Specialist! 
-- 🎯 My goals for 2024: landing my dream in data!
-
-## Some of my Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ch-awais-saleem&theme=dark)](https://git.io/streak-stats) 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ch-awais-saleem&show_icons=true&include_all_commits=true)](https://github.com/ch-awais-saleem/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-awais-saleem&layout=compact&theme=dark)](https://github.com/ch-awais-saleem/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ch-awais-saleem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+- I enjoy participating in professional events, especially those organized in the Data Science community. 
+- At the moment, I am training to become a Data Specialist! 
+- 🎯 My goals for 2025: landing my dream in data!
 
 
 ## Areas of Expertise
@@ -50,7 +40,5 @@ Some facts about me:
 [![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/f2156571-0570-42da-aa36-d9672b8cc974) 
 [![Certified AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/348f5bc1-232d-4c08-85a7-67edfcf31643) 
 
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=flat-square)](https://github.com/sponsors/ch-awais-saleem) 
 
 Feel free to explore my repositories or connect with me!
