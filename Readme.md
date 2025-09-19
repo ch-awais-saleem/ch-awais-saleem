@@ -6,6 +6,11 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=Google-Chrome&logoColor=white)](https://your-portfolio-url.com)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ch-awais-saleem alt=ch-awais-saleem /> </p>
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a39ee961-8b2c-472c-84a2-d543648f3751" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c28e1a3f-d594-4014-82e8-b9cf8c0e736c" />
+
+[![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/f2156571-0570-42da-aa36-d9672b8cc974) 
+[![Certified AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/348f5bc1-232d-4c08-85a7-67edfcf31643) 
 
 I’m a Data Engineer\Data Consultant  with extensive experience in designing, implementing, and managing robust data solutions. My expertise spans across database administration, data pipeline development, ETL processes, and optimizing SQL-based systems. I’m passionate about building scalable architectures and ensuring data integrity, security, and high availability.
 
@@ -32,13 +37,6 @@ Some facts about me:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## Certifications
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a39ee961-8b2c-472c-84a2-d543648f3751" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c28e1a3f-d594-4014-82e8-b9cf8c0e736c" />
-
-[![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/f2156571-0570-42da-aa36-d9672b8cc974) 
-[![Certified AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/348f5bc1-232d-4c08-85a7-67edfcf31643) 
 
 
 Feel free to explore my repositories or connect with me!
