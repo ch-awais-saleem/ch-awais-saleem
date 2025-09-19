@@ -44,9 +44,10 @@ Some facts about me:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Certifications
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a39ee961-8b2c-472c-84a2-d543648f3751" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c28e1a3f-d594-4014-82e8-b9cf8c0e736c" />
 
 [![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/f2156571-0570-42da-aa36-d9672b8cc974) 
-
 [![Certified AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/348f5bc1-232d-4c08-85a7-67edfcf31643) 
 
 
